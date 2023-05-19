@@ -1,0 +1,4 @@
+{
+  "endpoint": "api/tinseled-lightningbug",
+  "root": "stepzen/curl"
+}
